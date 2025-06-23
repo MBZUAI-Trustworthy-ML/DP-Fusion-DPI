@@ -1,6 +1,6 @@
 # DP-Fusion: Token-Level Differentially Private Inference for Large Language Models
 
-This repository contains the codebase for running DP-Fusion, a Differentially Private Inference (DPI) framework for document privatization, along with several baselines and attack methods.
+This repository contains the codebase for running DP-Fusion, a Differentially Private Inference (DPI) framework for LLMs, demonstrated through document privatization, along with several baselines and attack methods.
 
 ## Project Contents
 

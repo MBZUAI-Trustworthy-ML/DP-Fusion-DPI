@@ -157,12 +157,13 @@ If you use this code in your research, please cite the corresponding paper:
 
 ### BibTeX
 ```bibtex
-@article{thareja2024dpfusion,
-  title={DP-Fusion: Token-Level Differentially Private Inference for Large Language Models},
-  author={Thareja, Rushil and Nakov, Preslav and Vepakomma, Praneeth and Lukas, Nils},
-  journal={[Journal/Conference Name]},
-  year={2024},
-  publisher={[Publisher]},
-  note={Available at: [URL/DOI]}
+@misc{thareja2025dpfusiontokenleveldifferentiallyprivate,
+      title={DP-Fusion: Token-Level Differentially Private Inference for Large Language Models}, 
+      author={Rushil Thareja and Preslav Nakov and Praneeth Vepakomma and Nils Lukas},
+      year={2025},
+      eprint={2507.04531},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.04531}, 
 }
 ```

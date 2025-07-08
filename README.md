@@ -2,6 +2,12 @@
 
 This repository contains the codebase for running DP-Fusion, a Differentially Private Inference (DPI) framework for LLMs, demonstrated through document privatization, along with several baselines and attack methods.
 
+# Demo Video
+
+Here is a deployed version of DP-Fusion that uses NER system confidence values to set epsilons!
+
+[![Watch Demo](https://img.youtube.com/vi/rdT4C_d-y2M/0.jpg)](https://youtu.be/rdT4C_d-y2M)
+
 ## Project Contents
 
 The project includes:

@@ -12,7 +12,7 @@ You can try this for free (with support for PDFs, DOCs, PPTX, TXT files, etc.) h
 
 https://land-therefore-portal-terms.trycloudflare.com/
 
-(_note this is deployed on old P5000 the speed is way faster on newer GPUs!_)
+(_note this is deployed on old P5000 GPUs, the speed is way faster on newer GPUs!_)
 
 ## Project Contents
 

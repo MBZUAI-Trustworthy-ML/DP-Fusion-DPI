@@ -8,6 +8,12 @@ Here is a deployed version of DP-Fusion that uses NER system confidence values t
 
 [![Watch Demo](https://img.youtube.com/vi/rdT4C_d-y2M/0.jpg)](https://youtu.be/rdT4C_d-y2M)
 
+You can try this for free (with support for PDFs, DOCs, PPTX, TXT files, etc.) here - 
+
+https://land-therefore-portal-terms.trycloudflare.com/
+
+(_note this is deployed on old P5000 the speed is way faster on newer GPUs!_)
+
 ## Project Contents
 
 The project includes:

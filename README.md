@@ -8,6 +8,8 @@ Here is a deployed version of DP-Fusion that uses NER system confidence values t
 
 [![Watch Demo](https://img.youtube.com/vi/rdT4C_d-y2M/0.jpg)](https://youtu.be/rdT4C_d-y2M)
 
+** link is down right now because of server issues, we are working to get this live.
+
 You can try this for free (with support for PDFs, DOCs, PPTX, TXT files, etc.) here - 
 
 https://spec-negotiations-multimedia-cod.trycloudflare.com/
